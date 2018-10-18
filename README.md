@@ -14,4 +14,10 @@ To create a complete project on Face Recognition, we must work on 3 very distinc
 ## BACKGROUND ON FACE RECOGNITION
 When you look at an apple, your mind immediately tells you: that is an apple. This process is recognition in the simplest of terms. So, what’s facial recognition? The same, but for faces, obviously.
 
+But, the real question is:
 
+How can a computer recognize a face?
+
+Take a real life example:
+
+When you meet someone for the first time, you don’t know who that person is at once, right? While he's talking to you or shaking your hand, you’re looking at his face: eyes, nose, mouth, skin tone… This process is your mind gathering data and training for face recognition.
