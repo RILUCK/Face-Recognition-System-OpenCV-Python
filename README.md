@@ -26,3 +26,10 @@ Next, that person tells you that his name is RISHABH. So, your brain has already
 
 The next time you see RISHABH or see a picture of his face, your mind will follow this exact process:
 
+1 **Face Detection**: Look at the picture and find a face in it.
+
+2 **Data Gathering**: Extract unique characteristics of Kirill’s face that it can use to differentiate him from another person, like eyes, mouth, nose, etc.
+
+3 **Data Comparison**: Despite variations in light or expression, it will compare those unique features to all the features of all the people you know.
+
+4 **Face Recognition**: It will determine “Hey, that’s my boy RISHABH!”
