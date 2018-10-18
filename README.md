@@ -11,5 +11,7 @@ To create a complete project on Face Recognition, we must work on 3 very distinc
 2) Train the Recognizer
 3) Face Recognition
 
+## BACKGROUND ON FACE RECOGNITION
+When you look at an apple, your mind immediately tells you: that is an apple. This process is recognition in the simplest of terms. So, what’s facial recognition? The same, but for faces, obviously.
 
 
