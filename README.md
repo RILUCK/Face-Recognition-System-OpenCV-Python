@@ -21,3 +21,8 @@ How can a computer recognize a face?
 Take a real life example:
 
 When you meet someone for the first time, you don’t know who that person is at once, right? While he's talking to you or shaking your hand, you’re looking at his face: eyes, nose, mouth, skin tone… This process is your mind gathering data and training for face recognition.
+
+Next, that person tells you that his name is RISHABH. So, your brain has already gotten the face data, and now it has learned that this data belongs to RISHABH.
+
+The next time you see RISHABH or see a picture of his face, your mind will follow this exact process:
+
